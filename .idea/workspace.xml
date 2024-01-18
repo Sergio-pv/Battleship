@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fe29ae72-c0d8-4b20-b7ff-5b57ba74f8af" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HLF.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Client/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Common/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Server/Server.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2awYCceVfL0u3FDeIUu9BhheHBF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Client.executor": "Run",
+    "Application.ClientConnect.executor": "Run",
+    "Application.Cliente.executor": "Run",
+    "Application.Server.executor": "Run",
+    "Application.Servidor.executor": "Run",
+    "Application.TCPServer.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/sergio.penades/Desktop/Battleship-Socket-main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\pvser\OneDrive - Fundación Universitaria San Pablo CEU\DAM\Intellij\HLF\src\Common" />
+      <recent name="C:\Users\pvser\OneDrive - Fundación Universitaria San Pablo CEU\DAM\Intellij\HLF\src\Server" />
+      <recent name="C:\Users\pvser\OneDrive - Fundación Universitaria San Pablo CEU\DAM\Intellij\HLF\src\Client" />
+      <recent name="C:\Users\sergio.penades\OneDrive - Fundación Universitaria San Pablo CEU\DAM\Intellij\HLF\src\Common" />
+      <recent name="C:\Users\sergio.penades\OneDrive - Fundación Universitaria San Pablo CEU\DAM\Intellij\HLF\src\Server" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-249ae16d76d6-a618e4d4" />
+        <option value="jdk-21.0.1-openjdk-21.0.1-f644763e9732-f98dd351" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe29ae72-c0d8-4b20-b7ff-5b57ba74f8af" name="Changes" comment="" />
+      <created>1705230982823</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705230982823</updated>
+      <workItem from="1705230984052" duration="129000" />
+      <workItem from="1705231125667" duration="2814000" />
+      <workItem from="1705233962667" duration="862000" />
+      <workItem from="1705234838389" duration="1695000" />
+      <workItem from="1705236550267" duration="1156000" />
+      <workItem from="1705237720531" duration="3068000" />
+      <workItem from="1705240813687" duration="1055000" />
+      <workItem from="1705241883536" duration="1304000" />
+      <workItem from="1705243202346" duration="280000" />
+      <workItem from="1705243493498" duration="157000" />
+      <workItem from="1705243660450" duration="1152000" />
+      <workItem from="1705306711447" duration="174000" />
+      <workItem from="1705307020358" duration="7295000" />
+      <workItem from="1705314358625" duration="8900000" />
+      <workItem from="1705323317891" duration="4950000" />
+      <workItem from="1705330654320" duration="2579000" />
+      <workItem from="1705342106621" duration="1033000" />
+      <workItem from="1705394301395" duration="8950000" />
+      <workItem from="1705421087581" duration="3210000" />
+      <workItem from="1705480733221" duration="1789000" />
+      <workItem from="1705482538186" duration="11519000" />
+      <workItem from="1705498183617" duration="8478000" />
+      <workItem from="1705507183771" duration="13000" />
+      <workItem from="1705507208192" duration="855000" />
+      <workItem from="1705509853329" duration="179000" />
+      <workItem from="1705518791735" duration="8319000" />
+      <workItem from="1705558383704" duration="592000" />
+      <workItem from="1705558988379" duration="2798000" />
+      <workItem from="1705561808145" duration="872000" />
+      <workItem from="1705562692931" duration="1524000" />
+      <workItem from="1705564233123" duration="405000" />
+      <workItem from="1705564648342" duration="2891000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
